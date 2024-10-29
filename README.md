@@ -1,6 +1,6 @@
 # Travaux dirigés : HTML - CSS
 ## Page d'accueil d'un site e-commerce en HTML et CSS (MICROLOVER)
-:memo: Appuyiez vous sur les visuels fournis ci-après pour reproduire la page HTML.
+:memo: Appuyez-vous sur les visuels fournis ci-après pour reproduire la page HTML.
 ## Objectifs :
 -  :heavy_check_mark:	Reproduire le visuel du site en desktop first
 -  :heavy_check_mark:	Réaliser une animation pour simuler le chargement de chargement d'écran 
