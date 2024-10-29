@@ -11,6 +11,15 @@
 :sparkles: Lien du projet : https://princecorg.github.io/MicroLover/
 
 ## Screenshots :
-| Vue Desktop  |
+Voici les visuels des vues ordinateur et mobile/tablette (Point de rupture à 1024px)
+
+| Vue Ordinateur  |
 |-----------|
 | <img alt="screenshot01 : desktop view" src="images/bureau.jpg" width="626"> |
+
+| Vue Mobile haut  | Mobile bas |
+|-----------|-----------|
+| <img alt="screenshot02 : mobile view top" src="assets/images/mobile01.jpg" width="300"> | <img alt="screenshot01 : mobile view bottom" src="assets/images/mobile02.jpg" width="300"> |
+
+:rotating_light: Notez la disparition de l'image de l'ordinateur sur les versions mobile et tablette.
+

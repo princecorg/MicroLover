@@ -60,7 +60,7 @@ header {
 }
 .logo {
   font-size: 40px;
-  font-weight: 700;
+  font-weight: 500;
 }
 .logo span {
   color: var(--primary-color);
@@ -115,7 +115,7 @@ nav button:hover {
   color: var(--primary-color);
 }
 .text p {
-  max-width: 50%;
+  max-width: 45%;
   margin: 20px 0;
 }
 .btn {
@@ -183,7 +183,7 @@ nav button:hover {
 
 /* ------------------------------------------------------------------------ MEDIA QUERIES --------------------------------------------------------------------------------------*/
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 1024px) {
   header {
     flex-wrap: wrap;
     justify-content: center;
