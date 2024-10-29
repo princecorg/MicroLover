@@ -1,0 +1,180 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins', sans-serif;
+}
+:root {
+  --primary-color: #3f65f0; /* couleur de fond*/
+  --secondary-color: #ffffff; /* couleur d'écriture*/
+  --title-color: #336020;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2% 6%;
+}
+.logo {
+  font-size: 40px;
+  font-weight: 700;
+}
+.logo span {
+  color: var(--title-color);
+}
+
+ul {
+  display: flex;
+}
+
+ul li {
+  padding: 8px 12px;
+  list-style: none;
+}
+ul li a {
+  text-decoration: none;
+  font-size: 17px;
+  transition: 0.5s;
+}
+ul li a:hover {
+  color: var(--primary-color);
+}
+.active {
+  color: var(--title-color);
+  border-bottom: 2px solid var(--primary-color);
+}
+nav button {
+  background: var(--primary-color);
+  padding: 8px 12px;
+  border: 2px solid var(--primary-color);
+  border-radius: 10px;
+  color: var(--secondary-color);
+  cursor: pointer;
+}
+
+nav button:hover {
+  background: var(--secondary-color);
+  color: var(--primary-color);
+}
+
+.text {
+  padding: 80px 80px;
+}
+.text h1 {
+  font-size: 50px;
+}
+.text span,
+.argument {
+  color: var(--primary-color);
+}
+.text p {
+  max-width: 50%;
+  margin: 20px 0;
+}
+.btn {
+  background: var(--primary-color);
+  color: var(--secondary-color);
+  padding: 15px 30px;
+  display: flex;
+  margin-top: 30px;
+  border: none;
+  border-radius: 30px;
+  font-size: 18px;
+  transition: 0.5s;
+}
+.btn:hover {
+  letter-spacing: 5px;
+}
+.quarter-circle {
+  position: fixed;
+  background: var(--primary-color);
+  bottom: 0;
+  right: 0;
+  width: 600px;
+  height: 600px;
+  border-top-left-radius: 100%;
+}
+.quarter-circle-img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.quarter-circle-img img {
+  width: 90%;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.quarter-circle-img img:hover {
+  transform: scale(0.75);
+}
+/* -------------------- media Queries -------------------------*/
+
+@media all and (max-width: 768px) {
+  header {
+    flex-wrap: wrap;
+    justify-content: center;
+    background: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 5% 0;
+  }
+
+  ul {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: black;
+    margin: 5px 0;
+    border-top: 2px solid var(--secondary-color);
+    border-bottom: 2px solid var(--secondary-color);
+  }
+
+  ul li a {
+    color: var(--secondary-color);
+  }
+
+  .logo {
+    font-size: 30px;
+  }
+
+  .logo span,
+  .active {
+    color: var(--secondary-color);
+  }
+
+  .quarter-circle {
+    display: none;
+  }
+
+  .right {
+    width: 100%;
+    text-align: center;
+  }
+
+  nav {
+    text-align: center;
+
+  }
+  nav button {
+    text-align: center;
+    border: 2px solid var(--secondary-color);
+    width: 160px;
+    margin: 5px;
+  }
+
+  .text {
+    padding: 5px;
+  }
+  .text h1 {
+    font-size: 20px;
+  }
+
+  .text p {
+    width: 90%;
+    max-width: unset;
+  }
+
+  .btn {
+    margin: auto;
+  }
+}
