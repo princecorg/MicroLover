@@ -27,6 +27,14 @@ Voici les visuels des vues ordinateur et mobile/tablette (Point de rupture à 10
 
 :rotating_light: Notez la disparition de l'image de l'ordinateur sur les versions mobile et tablette.
 
+## couleurs et police :
+
+- --primary-color: #3f65f0; 
+- --secondary-color: #ffffff; 
+- --loader-color: rgb(9, 2, 32);
+
+Police utilisée (font-family: 'poppins', sans-serif)
+
 ## Animation CSS :
 
 Vidéo de présentation des animations CSS intégrées à la page
