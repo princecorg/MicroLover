@@ -34,8 +34,8 @@ Voici les visuels des vues ordinateur et mobile/tablette (Point de rupture à 10
 ## couleurs et police :
 
 - --primary-color: #3f65f0; 
-- --secondary-color: #ffffff; 
-- --loader-color: rgb(9, 2, 32);
+- --secondary-color: #ffffff; (white)
+- --loader-color: rgb(9, 2, 32); (loader background)
 
 Police utilisée (font-family: 'poppins', sans-serif)
 
