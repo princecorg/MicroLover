@@ -9,3 +9,8 @@
 -  :heavy_check_mark:	Have fun ! :smile:
 
 :sparkles: Lien du projet : https://princecorg.github.io/MicroLover/
+
+## Screenshots :
+| Vue Desktop  |
+|-----------|
+| <img alt="screenshot01 : desktop view" src="images/bureau.jpg" width="626"> |
