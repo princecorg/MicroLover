@@ -5,11 +5,15 @@
 
 ## Objectifs :
 
--  :heavy_check_mark:	Reproduire le visuel du site en desktop first
--  :heavy_check_mark:	Réaliser une animation pour simuler le chargement de chargement d'écran 
--  :heavy_check_mark:	Ajouter des effets d'animation sur les boutons et l'image (voir la vidéo)
--  :heavy_check_mark:	Respecter les standards du Web (analyse Lighthouse)
--  :heavy_check_mark:	Have fun ! :smile:
+:heavy_check_mark:	Reproduire le visuel du site en desktop first
+
+:heavy_check_mark:	Réaliser une animation pour simuler le chargement de chargement d'écran 
+
+:heavy_check_mark:	Ajouter des effets d'animation sur les boutons et l'image (voir la vidéo pour référence)
+
+:heavy_check_mark:	Respecter les standards du Web (analyse Lighthouse)
+
+:heavy_check_mark:	Have fun ! :smile:
 
 :sparkles: Lien du projet : https://princecorg.github.io/MicroLover/
 
@@ -41,7 +45,7 @@ Vidéo de présentation des animations CSS intégrées à la page
 
 https://github.com/user-attachments/assets/25a76aab-2efc-496d-9e9e-c84eb64c9f90
 
-:memo: L'animation du loader est libre, n"hésitez pas à utiliser des ressources accessibles ici :
+:memo: L'animation du loader est libre, n'hésitez pas à utiliser des ressources accessibles ici :
 
 - Animations CSS personnalisables : [Animista](https://animista.net/)
 - Spinners, loaders et boutons : [CSSFX](https://cssfx.netlify.app/?ref=undesign)
