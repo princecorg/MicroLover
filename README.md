@@ -1,7 +1,7 @@
 # Travaux dirigés : HTML - CSS
 ## Page d'accueil d'un site e-commerce en HTML et CSS (MICROLOVER)
 
-:memo: Appuyez-vous sur les visuels fournis ci-après pour reproduire la page HTML.
+:memo: Appuyez-vous sur les visuels fournis ci-après pour reproduire la page HTML (voir maquette).
 
 ## Objectifs :
 
